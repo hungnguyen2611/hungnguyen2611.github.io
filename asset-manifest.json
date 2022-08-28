@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a6005f5.chunk.css",
+    "main.js": "/static/js/main.fbf7a35b.chunk.js",
+    "main.js.map": "/static/js/main.fbf7a35b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b19d5ff2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b19d5ff2.js.map",
+    "static/js/2.7f4bbd56.chunk.js": "/static/js/2.7f4bbd56.chunk.js",
+    "static/js/2.7f4bbd56.chunk.js.map": "/static/js/2.7f4bbd56.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/static/css/3.df879eac.chunk.css",
+    "static/js/3.e61f7160.chunk.js": "/static/js/3.e61f7160.chunk.js",
+    "static/js/3.e61f7160.chunk.js.map": "/static/js/3.e61f7160.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.58100f00.chunk.js": "/static/js/4.58100f00.chunk.js",
+    "static/js/4.58100f00.chunk.js.map": "/static/js/4.58100f00.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.516f3a91a7c0006a76422cabe018c273.js": "/precache-manifest.516f3a91a7c0006a76422cabe018c273.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.1a6005f5.chunk.css.map": "/static/css/main.1a6005f5.chunk.css.map",
+    "static/js/2.7f4bbd56.chunk.js.LICENSE.txt": "/static/js/2.7f4bbd56.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/BKLogo.png": "/static/media/BKLogo.d286639e.png",
+    "static/media/DNN.png": "/static/media/DNN.45727ab4.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/emageLogo.png": "/static/media/emageLogo.2fa33e5f.png",
+    "static/media/face_reg.png": "/static/media/face_reg.e5dd27ae.png",
+    "static/media/idp_ielts.png": "/static/media/idp_ielts.63972f35.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19d5ff2.js",
+    "static/js/2.7f4bbd56.chunk.js",
+    "static/css/main.1a6005f5.chunk.css",
+    "static/js/main.fbf7a35b.chunk.js"
+  ]
+}
