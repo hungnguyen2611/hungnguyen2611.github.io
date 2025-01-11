@@ -1,0 +1,13 @@
+- id: swifttry
+  title: "SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models"
+  venue: AAAI, 2025
+  description: "we present a video virtual try-on method that is fast, consistent, and can handle challenging poses and occlusions."
+  project_page: https://swift-try.github.io/
+  arxiv: 2412.10178
+  image: swifttry.jpg
+  image_mouseover: swifttry.mp4
+  authors:
+    - hungnguyen2611co
+    - quangvinhco
+    - khoinguyen
+    - rangnguyen

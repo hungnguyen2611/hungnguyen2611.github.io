@@ -1,0 +1,26 @@
+hungnguyen2611:
+  first_name: Hung
+  last_name: Nguyen
+  website: https://hungnguyen2611.github.io
+  is_me: true
+hungnguyen2611co:
+  first_name: Hung
+  last_name: Nguyen*
+  website: https://hungnguyen2611.github.io
+  is_me: true
+quangvinh:
+  first_name: Quang Qui
+  last_name: Vinh Nguyen
+  website: https://nguyenquivinhquang.github.io
+quangvinhco:
+  first_name: Quang Qui
+  last_name: Vinh Nguyen*
+  website: https://nguyenquivinhquang.github.io
+khoinguyen:
+  first_name: Khoi
+  last_name: Nguyen
+  website: https://khoinguyen.org
+rangnguyen:
+  first_name: Rang
+  last_name: Nguyen
+  website: https://rangnguyen.github.io/
