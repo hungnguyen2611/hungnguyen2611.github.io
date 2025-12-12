@@ -1,3 +1,13 @@
+- id: wheresmymug
+  title: "Where's My Mug? A Benchmark and Training-Free Framework for Personalized Image Segmentation"
+  venue: Under Review
+  image: wheresmug.jpg
+  authors:
+    - quangvinhco
+    - hungnguyen2611co
+    - rangnguyen
+    - khoinguyen
+
 - id: swifttry
   title: "SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models"
   venue: AAAI, 2025

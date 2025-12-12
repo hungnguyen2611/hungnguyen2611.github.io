@@ -23,9 +23,10 @@ name: Hung
 position: Research Resident 
 email: hungnguyenminh2611@gmail.com
 description: >-
-  I am a Research Resident at VinAI Research, working on video processing and generative models where I'm advised by
-  [Dr. Khoi Nguyen](https://www.khoinguyen.org/) and
-  [Dr. Rang Nguyen](https://rangnguyen.github.io/).
+  I am currently a Research Resident at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence), where I work on **personalized generation** using video diffusion models under the supervision of
+  [Dr. Khoi Nguyen](https://www.khoinguyen.org/). Before that, I worked at VinAI Research, advised by
+  [Dr. Rang Nguyen](https://rangnguyen.github.io/), focusing on **video virtual try-on**.<br>
+  <br>
   I received my B.E. in Computer Science from [HCM University of Technology](https://hcmut.edu.vn/), Viet Nam where I was advised by [Dr. Duc Dung Nguyen](https://scholar.google.com/citations?user=xV7uHJgAAAAJ&hl=en).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hungnguyen2611.github.io" # the base hostname & protocol for your site, e.g. http://example.com
